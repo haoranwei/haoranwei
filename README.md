@@ -1,6 +1,8 @@
 # haoranwei
-🏫 I am an undergraduate student majoring in software engineering.  
-🥰 I have studied Java, Vue.js, Web Basics, C/C++, and I have basic algorithmic skills and knowledge of data structures.  
-📝 I am currently preparing for the graduate school entrance exam.
+🏫 Incoming graduate student in software engineering.
 
-Updated on 03/27/2024
+🥰 I have studied Java, Vue3, Python, C/C++, and I have basic algorithmic skills and knowledge of computer science.
+
+📝 I have successfully passed the graduate school entrance exam and am excited to begin my master's program.
+
+Updated on 02/04/2025
